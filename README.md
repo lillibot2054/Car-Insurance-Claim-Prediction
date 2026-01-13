@@ -1,6 +1,6 @@
 
 
-#  Insurance Claim Prediction using Machine Learning
+#  Car Insurance Claim Prediction 
 
 ##  Project Overview
 
