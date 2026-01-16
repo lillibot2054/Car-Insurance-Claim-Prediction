@@ -109,6 +109,8 @@ The **Random Forest classifier** demonstrated the best overall performance and w
 ##   Tools & Libraries
 
 * Python
+* EDA
+* SQL
 * Pandas
 * NumPy
 * Scikit-learn
