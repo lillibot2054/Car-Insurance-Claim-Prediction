@@ -87,7 +87,7 @@ The **Random Forest classifier** demonstrated the best overall performance and w
 
 1. Clone the repository
 2. Open the notebook in **Google Colab** or **Jupyter Notebook**
-3. Import The Dataset & Unzip It
+3. Import the dataset & unzip it
 4. Run cells sequentially (top to bottom)
 5. The final submission file will be saved as:
 
